@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi there, I'm Akshara Minoli
 
-<!--
-**akshara-minoli/akshara-minoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate at SLIIT
+💻 Aspiring Software Engineer | Passionate about Cloud Computing, DevOps, and Data Science
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Linux System Administration, DevOps, AWS, and .NET Development
+
+💡 I enjoy building scalable systems, automating workflows, and exploring new technologies
+
+🎯 My goal is to contribute to open-source projects and participate in Google Summer of Code (GSoC)
+
+🎄 Fun fact: I love decorating the Christmas tree with my family every year
+
+🧠 Technical Skills
+
+Languages & Frameworks:
+Java • C# • .NET • Python • HTML • CSS • JavaScript
+
+Tools & Platforms:
+Linux • AWS • Git • GitHub • Docker • Jenkins • Figma
+
+Concepts:
+DevOps • Cloud Computing • OOP • Data Structures & Algorithms • Software Design Patterns
+
+💼 Projects
+
+🔹 PeuFix - Car Repair Management System
+A web-based platform for managing car repairs, job sheets, spare parts, and customer communication.
+Tech Stack: JSP, Servlets, MVC, MySQL
+
+🔹 Ticket Management System
+A CRUD-based system using Java Servlets and JSP for managing user tickets and support requests.
+
+🔹 Parking Management System 
+Manages parking reservations and monthly subscriptions for students, staff, and guests.
+
+🔹 Research Management Software (RMS)
+A conceptual model for managing research workflows, experiments, and collaborations.
