@@ -11,7 +11,7 @@
 
 🎯 My goal is to contribute to open-source projects and participate in Google Summer of Code (GSoC)
 
-🎄 Fun fact: I love decorating the Christmas tree with my family every year
+
 
 🧠 Technical Skills
 
